@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="XFBluetoothPrinter.Views.HomePage"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             Title="Bluetooth Thermal Printer"
+             mc:Ignorable="d">
+    <ContentPage.Content>
+        <StackLayout Margin="10">
+            <Button BackgroundColor="#1E9FEE"
+                    Command="{Binding GetDeviceListCommand}"
+                    HorizontalOptions="FillAndExpand"
+                    Text="SCAN"
+                    Visual="Material" />
+
+            <StackLayout IsVisible="{Binding IsSelected, Converter={StaticResource InverseBoolConverter}}">
+
+                <Label HorizontalOptions="StartAndExpand" Text="Devices:" />
+                <ListView x:Name="Device"
+                          HasUnevenRows="True"
+                          ItemTapped="Device_ItemTapped"
+                          ItemsSource="{Binding BluetoothDevices}"
+                          SeparatorVisibility="None">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid Margin="0,10">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="40" />
+                                        <ColumnDefinition Width="*" />
+                                    </Grid.ColumnDefinitions>
+                                    <StackLayout Grid.Column="1" Spacing="0">
+                                        <Label FontAttributes="Bold"
+                                               Text="{Binding Name}"
+                                               TextColor="Black" />
+
+                                        <Label FontSize="12" Text="{Binding Uuid}" />
+                                    </StackLayout>
+
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+            <StackLayout IsVisible="{Binding IsSelected}">
+                <Label HorizontalOptions="StartAndExpand" Text="{Binding SelectedDevice.Name, StringFormat='Selected: {0}'}" />
+                <Button x:Name="Print"
+                        BackgroundColor="#1E9FEE"
+                        Command="{Binding GoToPrintCommand}"
+                        HorizontalOptions="FillAndExpand"
+                        Text="NEXT"
+                        Visual="Material" />
+            </StackLayout>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

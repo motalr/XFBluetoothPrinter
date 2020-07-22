@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "VaNR6s+L7xj1cVldDS966w+sj/i6r6G+3nIL4OzdFezXJy9/m2QIrmpQuuCqqK0/2c/N5CCoDcoSu3V1WzPG0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JOverflowRyan\\source\\repos\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.4\\microsoft.extensions.dependencyinjection.3.1.4.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\shiny.bluetoothle\\1.2.0.1686-beta\\shiny.bluetoothle.1.2.0.1686-beta.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\shiny.core\\1.2.0.1686\\shiny.core.1.2.0.1686.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\system.reactive\\4.4.1\\system.reactive.4.4.1.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\xamarin.forms\\4.7.0.1142\\xamarin.forms.4.7.0.1142.nupkg.sha512",
+    "C:\\Users\\JOverflowRyan\\.nuget\\packages\\xamarin.forms.visual.material\\4.7.0.1142\\xamarin.forms.visual.material.4.7.0.1142.nupkg.sha512"
+  ],
+  "logs": []
+}

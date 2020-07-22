@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JOverflowRyan\\source\\repos\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter.Android\\XFBluetoothPrinter.Android.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JOverflowRyan\\source\\repos\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter.Android\\XFBluetoothPrinter.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JOverflowRyan\\source\\repos\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter.Android\\XFBluetoothPrinter.Android.csproj",
+        "projectName": "XFBluetoothPrinter.Android",
+        "projectPath": "C:\\Users\\JOverflowRyan\\source\\repos\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter.Android\\XFBluetoothPrinter.Android.csproj",
+        "packagesPath": "C:\\Users\\JOverflowRyan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JOverflowRyan\\source\\repos\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JOverflowRyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/xamarinforms-ci/api/v2": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "C:\\Users\\JOverflowRyan\\source\\repos\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter.csproj": {
+                "projectPath": "C:\\Users\\JOverflowRyan\\source\\repos\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Shiny.BluetoothLE": {
+              "target": "Package",
+              "version": "[1.2.0.1686-beta, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.7.0.1142, )"
+            },
+            "Xamarin.Forms.Visual.Material": {
+              "target": "Package",
+              "version": "[4.7.0.1142, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\JOverflowRyan\\source\\repos\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JOverflowRyan\\source\\repos\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter.csproj",
+        "projectName": "XFBluetoothPrinter",
+        "projectPath": "C:\\Users\\JOverflowRyan\\source\\repos\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter.csproj",
+        "packagesPath": "C:\\Users\\JOverflowRyan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JOverflowRyan\\source\\repos\\XFBluetoothPrinter\\XFBluetoothPrinter\\XFBluetoothPrinter\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JOverflowRyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/xamarinforms-ci/api/v2": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Shiny.BluetoothLE": {
+              "target": "Package",
+              "version": "[1.2.0.1686-beta, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.5.3.2, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.7.0.1142, )"
+            },
+            "Xamarin.Forms.Visual.Material": {
+              "target": "Package",
+              "version": "[4.7.0.1142, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

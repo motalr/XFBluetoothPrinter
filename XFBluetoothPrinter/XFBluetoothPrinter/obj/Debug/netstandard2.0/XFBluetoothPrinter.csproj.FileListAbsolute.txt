@@ -1,0 +1,17 @@
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\bin\Debug\netstandard2.0\XFBluetoothPrinter.deps.json
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\bin\Debug\netstandard2.0\XFBluetoothPrinter.dll
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\bin\Debug\netstandard2.0\ref\XFBluetoothPrinter.dll
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\bin\Debug\netstandard2.0\XFBluetoothPrinter.pdb
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\obj\Debug\netstandard2.0\Views\PrintPage.xaml.g.cs
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\obj\Debug\netstandard2.0\XFBluetoothPrinter.AssemblyInfoInputs.cache
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\obj\Debug\netstandard2.0\XFBluetoothPrinter.AssemblyInfo.cs
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\obj\Debug\netstandard2.0\XFBluetoothPrinter.csproj.CoreCompileInputs.cache
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\obj\Debug\netstandard2.0\XFBluetoothPrinter.dll
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\obj\Debug\netstandard2.0\ref\XFBluetoothPrinter.dll
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\obj\Debug\netstandard2.0\XFBluetoothPrinter.pdb
+C:\Users\JOverflowRyan\source\repos\XFBluetoothPrinter\XFBluetoothPrinter\XFBluetoothPrinter\obj\Debug\netstandard2.0\XFBluetoothPrinter.csprojAssemblyReference.cache

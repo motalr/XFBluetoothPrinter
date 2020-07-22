@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage x:Class="XFBluetoothPrinter.Views.PrintPage"
+             xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             Title="Printing Page"
+             mc:Ignorable="d">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Aspect="AspectFit"
+                   HeightRequest="80"
+                   HorizontalOptions="CenterAndExpand"
+                   Source="poslogo.png"
+                   VerticalOptions="StartAndExpand" />
+
+            <Button x:Name="Print"
+                    BackgroundColor="#1E9FEE"
+                    Command="{Binding PrintCommand}"
+                    HorizontalOptions="FillAndExpand"
+                    IsEnabled="{Binding IsReady}"
+                    Text="PRINT"
+                    VerticalOptions="End"
+                    Visual="Material" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
